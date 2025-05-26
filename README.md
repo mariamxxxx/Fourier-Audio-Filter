@@ -3,8 +3,11 @@ This repository presents an audio signal processing project that synthesizes a p
 
 Key technologies and methods:
 	-NumPy for efficient numerical computation and signal synthesis. 
+ 
 	-Matplotlib for in-depth time- and frequency-domain visualization of audio signals.
+ 
 	-SoundDevice for audio playback of generated and filtered signals.
+ 
 	-SciPy FFT for rigorous spectral analysis, enabling precise noise identification and removal.
 
 Project highlights:
