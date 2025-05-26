@@ -2,8 +2,7 @@
 This repository presents an audio signal processing project that synthesizes a piano melody programmatically, contaminates it with random noise, and then applies custom frequency-domain filtering to restore the original music.
 
 Key technologies and methods:
--NumPy for efficient numerical computation and signal synthesis.
-
+-NumPy for efficient numerical computation and signal synthesis. /n
 -Matplotlib for in-depth time- and frequency-domain visualization of audio signals.
 
 -SoundDevice for audio playback of generated and filtered signals.
