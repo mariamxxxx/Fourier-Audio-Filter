@@ -1,5 +1,5 @@
 # Noise-FIiter
-This repository presents an audio signal processing project that synthesizes a piano melody programmatically, contaminates it with random noise, and then applies custom frequency-domain filtering to restore the original music—all within a Python environment.
+This repository presents an audio signal processing project that synthesizes a piano melody programmatically, contaminates it with random noise, and then applies custom frequency-domain filtering to restore the original music.
 
 Key technologies and methods:
 -NumPy for efficient numerical computation and signal synthesis.
